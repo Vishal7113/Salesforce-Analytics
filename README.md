@@ -15,5 +15,5 @@ Customer Retention Analysis: Tracks churn rates and customer lifetime value (CLV
 ✅ Improved decision-making with real-time insights.
 ✅ Enhanced customer engagement and retention strategies.
 ✅ Increased sales efficiency and revenue growth.
-✅ Optimized marketing campaigns based on data-driven recommendations
+✅ Optimized marketing campaigns based on data-driven recommendations.
 
