@@ -12,7 +12,7 @@ CRM analytics helps businesses track customer interactions, sales performance, a
 
 📈 Benefits:
 
-✅ Improved decision-making with real-time insights.
-✅ Enhanced customer engagement and retention strategies.
-✅ Increased sales efficiency and revenue growth.
-✅ Optimized marketing campaigns based on data-driven recommendations.
+1. Improved decision-making with real-time insights.
+2. Enhanced customer engagement and retention strategies.
+3. Increased sales efficiency and revenue growth.
+4. Optimized marketing campaigns based on data-driven recommendations.
